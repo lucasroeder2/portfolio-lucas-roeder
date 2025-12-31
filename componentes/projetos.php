@@ -20,16 +20,6 @@ $projetos = [
         "github" => "",
         "demo" => "",
     ],
-    [
-        "titulo" => "Bolador Profissional",
-        "finalizado" => false,
-        "ano" => 2025,
-        "descricao" => "Projeto em desenvolvimento para praticar os melhores beks.",
-        "stack" => ["PHP", "MySQL", "Tailwind"],
-        "img" => "/img/placeholder.png",
-        "github" => "",
-        "demo" => "",
-    ],
 ];
 ?>
 
