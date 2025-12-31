@@ -5,7 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   
-    <title>Meu Portifolio</title>
+    <title>Lucas Roeder | Portfólio</title>
+
+    <link rel="icon" href="/icons/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/icons8-dev-48.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/icons8-dev-48.png">
+
 </head>
 <body class="bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-white">
     <?php include('./componentes/header.php'); ?>
