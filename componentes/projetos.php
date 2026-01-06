@@ -7,11 +7,11 @@ $projetos = [
         "descricao" => "Meu primeiro portfólio. Escrito com PHP e Tailwind, com foco em layout e organização.",
         "stack" => ["PHP", "HTML", "Tailwind", "CSS"],
         "img" => "/img/portifolio.png",
-        "github" => "https://github.com/lucasroeder2/seurepo",
+        "github" => "https://github.com/lucasroeder2/portfolio-lucas-roeder/tree/main",
         "demo" => "", // colocar link quando tiver
     ],
     [
-        "titulo" => "CRUD PHP + MySQL",
+        "titulo" => "Gerenciador de Filmes",
         "finalizado" => false,
         "ano" => 2025,
         "descricao" => "Projeto em desenvolvimento para praticar rotas, validações e integração com banco de dados.",
